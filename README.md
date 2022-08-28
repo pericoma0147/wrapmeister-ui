@@ -1,2 +1,2 @@
 # wrapmeister-ui
-bridge.peercoin.net
+# bridge.peercoin.net
